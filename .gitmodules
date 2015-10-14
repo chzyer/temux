@@ -1,0 +1,3 @@
+[submodule "deps/src/github.com/pkg/term"]
+	path = deps/src/github.com/pkg/term
+	url = https://github.com/pkg/term
